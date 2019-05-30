@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.16, for macos10.14 (x86_64)
 --
--- Host: localhost    Database: DBAzurianTest
+-- Host: localhost    Database: data
 -- ------------------------------------------------------
 -- Server version	8.0.16
 
